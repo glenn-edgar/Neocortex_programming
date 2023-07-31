@@ -20,6 +20,10 @@ Add purpose of fourth section
 ### 5. Advanced Examples
 [Advanced Examples](./advanced_examples/README.md)
 
+### 6. Conclusions
 Add concluding text
+
+### 7. Appendixes
+[Appendixes](./appendixes/README.md)
 
 
